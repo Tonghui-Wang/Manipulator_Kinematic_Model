@@ -89,7 +89,7 @@ Algorithm for all kinematic models of NaiweiRobot
 </div>
 <br>
 
-## 11. STC-本体4轴  
+## 11. STC-本体4轴-RPPR构型  
 <div align=center>
 <img src="https://github.com/Tonghui-Wang/Manipulator_Kinematic_Model/assets/23735485/41ccfa47-61ac-412b-8278-95bfad43b1a3" width="500" height="450" align=center />  
 <br>  
